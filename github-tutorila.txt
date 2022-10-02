@@ -15,3 +15,11 @@ Manage:
 Note:
 Why stage ?
     -> while commiting, it only sees staged files.
+
+
+
+Installing
+Go to Git download page
+Click on Window Setup 64 bit
+And give access to your hard drive
+Check
