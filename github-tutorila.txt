@@ -1,0 +1,13 @@
+Creation:
+1. Create a repository in github
+1.1 copy repository url
+2. open vscode
+3. clone repo using url and vscode.
+
+Manage:
+1. create a new file/open a existing file.
+2. add/edit code to that file.
+3. save that file.
+4. Stage
+5. commit
+6. push to origin.
