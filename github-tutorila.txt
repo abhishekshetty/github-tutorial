@@ -7,7 +7,11 @@ Creation:
 Manage:
 1. create a new file/open a existing file.
 2. add/edit code to that file.
-3. save that file.
-4. Stage
-5. commit
+3. save that file. ( save a file)
+4. Staged the saved files (+)
+5. Commit the staged files ( commit with a message)
 6. push to origin.
+
+Note:
+Why stage ?
+    -> while commiting, it only sees staged files.
